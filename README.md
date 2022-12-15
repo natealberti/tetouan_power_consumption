@@ -1,4 +1,4 @@
-# tetuan_power_consumption
+# tetouan_power_consumption
 Linear regression with sklearn on a large dataset
 
 Various weather data from 2017 collected from Tetouan, Morocco. Source: https://archive.ics.uci.edu/ml/datasets/Power+consumption+of+Tetouan+city.
